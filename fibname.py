@@ -1,5 +1,6 @@
 # Ian McLoughlin
 # A program that displays Fibonacci numbers using people's names.
+# Exercise executed by Simona Vasiliauskaite
 
 def fib(n):
   """This function returns the nth Fibonacci number."""
