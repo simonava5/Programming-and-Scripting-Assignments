@@ -1,4 +1,4 @@
-# Python-Code-Scripts
+# Programming-and-Scripting-Assignments
 Python code script submissions
 
 
