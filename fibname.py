@@ -34,7 +34,6 @@ print("Fibonacci number", x, "is", ans)
 # The last letter e is number 101
 # Fibonacci number 187 is 538522340430300790495419781092981030533
 
----
 # What does ord() mean? My answer is below
 # Like a lot of the students here I didn't know what ord() command meant until I looked it up on Google.
 # It makes sense now that all numbers, letters, characters etc have numeric codes and when I looked up the ASCII character set,
