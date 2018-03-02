@@ -4,7 +4,10 @@
 ## EXERCISES:
 
 ### 1. File fib.py
-* Contains exercise 1 & 2
+* contains exercise 1 & 2
 
 ### 2. File collatz.py
 * contains exercise 3
+
+### 3. File projecteuler.py
+* contains exercise 4
