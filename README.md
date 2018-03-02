@@ -9,5 +9,5 @@
 ### 2. File collatz.py
 * contains exercise 3
 
-### 3. File projecteuler.py
+### 3. File projecteuler5.py
 * contains exercise 4
