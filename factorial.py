@@ -1,4 +1,5 @@
 # Simona Vasiliauskaite
+# 16/03/2018
 # Exercise 6 - Calculating the factorial of a number
 
 
