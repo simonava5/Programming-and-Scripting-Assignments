@@ -14,3 +14,6 @@
 
 ### 4. File irisdata.py
 * contains exercise 5
+
+### 5. File factorial.py
+* contains exercise 6
