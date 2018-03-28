@@ -26,10 +26,12 @@ Write a single Python script that starts with an integer and repeatedly applies 
 
 2,520 is the smallest number that can be divided by each of the numbers from 1 to 10 without any remainder. Write a Python program using for and range to calculate the smallest positive number that is evenly divisible by all of the numbers from 1 to 20.
 
-### 4. File irisdata.py
-* contains exercise 5
+### 4. File irisdata.py contains
+* exercise 5
 
 Write a Python script that reads the Iris data set in and prints the four numerical values on each row in a nice format. That is, on the screen should be printed the petal length, petal width, sepal length and sepal width, and these values should have the decimal places aligned, with a space between the columns.
 
-### 5. File factorial.py
-* contains exercise 6
+### 5. File factorial.py contains
+* exercise 6
+
+Write a Python script containing a function called factorial() that takes a single input/argument which is a positive integer and returns its factorial. The factorial of a number is that number multiplied by all of the positive numbers less than it.
