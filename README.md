@@ -16,8 +16,10 @@ Change the program to calculate the nth Fibonacci number where n the sum of the 
 Change the string variable to contain your own surname, and rerun it. Can you figure out what ord() does? Try to Google it to find out. Post the output of the program, along with any insight you have as to what ord() does,
 
 
-### 2. File collatz.py
-* contains exercise 3
+### 2. File collatz.py contains
+* exercise 3
+
+Write a single Python script that starts with an integer and repeatedly applies the Collatz function (divide by 2 if even, multiply by three and 1 if odd) using a while loop and if statement. At each iteration, the current value of the integer should be printed to the screen. You can specify in your code the starting value of 17. If you wish to enhance your program, have the program ask the user for the integer instead of specifying a value at the start of your code. 
 
 ### 3. File projecteuler5.py
 * contains exercise 4
