@@ -15,7 +15,7 @@ def collatz_sequence(n):
     if n < 1:
        return [] # return an empty list
     while n > 1:
-       if n % 2 == 0: 
+       if n % 2 == 0: # check if number is even
          n = int(n / 2) # The formula states that if the number is even, divide integer by two
        else:
          n = int(3 * n + 1) # and if the number is odd, triple it and add one
