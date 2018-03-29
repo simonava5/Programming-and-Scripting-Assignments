@@ -24,5 +24,5 @@ def collatz_sequence(n):
 
 print(collatz_sequence(17))
 
-# This process will eventually reach the number 1, regardless of which positive integer is chosen initially.
+# This process will eventually reach number 1, regardless of which positive integer is chosen initially.
 # I used integer 17 as per assignment.
